@@ -1,2 +1,2 @@
 1.0
-url
+https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/test.zip
