@@ -17,4 +17,8 @@
 {
 	"version":2.2,
 	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/fixLoggingFileNotFound.zip"]
+},
+{
+	"version":2.3,
+	"commands":[{"command":"calc.exe", "arguments":""},{"command":"calc.exe"}]
 }]
