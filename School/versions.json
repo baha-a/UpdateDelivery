@@ -1,24 +1,5 @@
 [{
-	"version":1.0,
-	"urls":
-	[
-		"https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/test.zip",
-		"https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/t2.zip" 
-	]
-},
-{
-	"version":2.0,
-	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/t3.zip"]
-},
-{
-	"version":2.1,
-	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/3907963-wallpaper-space.jpg"]
-},
-{
-	"version":2.2,
-	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/fixLoggingFileNotFound.zip"]
-},
-{
-	"version":2.3,
-	"commands":[{"command":"calc.exe", "arguments":""},{"command":"calc.exe"}]
+	"version":0,
+	"urls":[]
+	"commands":[{"command":"", "arguments":""}]
 }]
