@@ -5,4 +5,8 @@
 {
 	"version":0.2,
 	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/views2.zip"]
+},
+{
+	"version":0.3,
+	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/code_n_views.zip"]
 }]
