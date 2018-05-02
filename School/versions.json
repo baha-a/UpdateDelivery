@@ -13,4 +13,8 @@
 {
 	"version":0.4,
 	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20180502.zip"]
+},
+{
+	"version":0.5,
+	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20180502sql.zip"]
 }]
