@@ -17,4 +17,9 @@
 {
 	"version":0.5,
 	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20180502sql.zip"]
+},
+{
+	"version":0.6,
+	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/fixUpdater.zip"],
+	"commands":[{"command":"_updateUpdater.bat"}]
 }]
