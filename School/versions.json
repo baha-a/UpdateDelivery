@@ -22,4 +22,8 @@
 	"version":0.6,
 	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/fixUpdater.zip"],
 	"commands":[{"command":"_updateUpdater.bat"}]
+},
+{
+	"version":0.7,
+	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20180506.zip"]
 }]
