@@ -34,4 +34,8 @@
 {
 	"version":0.9,
 	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20180513_fix65jalaa.zip"]
+},
+{
+	"version":1.0,
+	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20180513_sql.zip"]
 }]
