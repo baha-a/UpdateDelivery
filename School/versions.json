@@ -70,4 +70,8 @@
 {
 "version":1.8,
 "urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20190120.zip"]
+},
+{
+"version":1.9,
+"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20190123.zip"]
 }]
