@@ -88,22 +88,6 @@
 	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20190127.zip"]
 },
 {
-	"version":2.3,
-	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20190128.zip"]
-},
-{
-	"version":2.4,
-	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20190601.zip"]
-},
-{
-	"version":2.5,
-	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20190617.zip"]
-},
-{
-	"version":2.6,
-	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20190619.zip"]
-},
-{
-	"version":2.7,
-	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20190617.zip"]
+	"version":3.0,
+	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20190623.zip"]
 }]
