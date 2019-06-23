@@ -90,4 +90,9 @@
 {
 	"version":3.0,
 	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20190623.zip"]
-}]
+},
+{
+	"version":3.1,
+	"urls":["https://github.com/bhlshrf/UpdateDelivery/raw/master/School/data/20190623_fixUploader.zip"]
+}
+]
